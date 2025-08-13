@@ -5,7 +5,7 @@
 
 <!-- Apresentação -->
 <h1 align="center">JulioCesar here 🔥!</h1>
-<h3 align="center">r</h3>
+<h3 align="center"></h3>
 
 ---
 
