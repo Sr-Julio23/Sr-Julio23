@@ -5,7 +5,7 @@
 
 <!-- Apresentação -->
 <h1 align="center">JulioCesar here 🔥!</h1>
-<h3 align="center">Namaste 🙏 I'm Julio Cesar</h3>
+<h3 align="center">r</h3>
 
 ---
 
