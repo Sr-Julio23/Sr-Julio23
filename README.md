@@ -1,6 +1,6 @@
 <!-- Banner Superior -->
 <p align="center">
-  <img src="file:///C:/Users/Particular/Desktop/Nova%20pasta%20(7)/download.png.jpg" alt="Banner" width="100%"/>
+  <img src="" alt="Banner" width="100%"/>
 </p>
 
 <!-- Apresentação -->
