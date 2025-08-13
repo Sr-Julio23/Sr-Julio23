@@ -1,6 +1,6 @@
 <!-- Banner Superior -->
 <p align="center">
-  <img src="" alt="Banner" width="100%"/>
+  <img src="file:///C:/Users/Particular/Downloads/Design%20sem%20nome.png" alt="Banner" width="100%"/>
 </p>
 
 <!-- Apresentação -->
