@@ -1,6 +1,7 @@
 <!-- Banner Superior -->
 <p align="center">
-  <img src="" alt="Banner" width="100%"/>
+  <img src="<img src="https://raw.githubusercontent.com/Sr-Julio23/Sr-Julio23/refs/heads/main/Design%20sem%20nome.png" alt="Banner" width="100%"/>
+" alt="Banner" width="100%"/>
 </p>
 
 <!-- Apresentação -->
