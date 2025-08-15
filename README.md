@@ -30,12 +30,15 @@
   </tr>
 </table>
 
-## 🛠️ Languages & Tools I Have Placed My Hands On
+## 🛠️ Languages & Tools 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,linux,arduino,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,linux,arduino,vscode" />
 </p>
 
+
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sr-Julio23&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Julio23&layout=compact&theme=tokyonight" height="180em"/>
@@ -46,13 +49,14 @@
 </p>
 
 
-## 💻 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+## 🛠️ Main Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,linux,arduino,vscode" />
 </p>
+
+
+
 
 <div align="center">
   
