@@ -30,7 +30,7 @@
   </tr>
 </table>
 
----
+
 
 ## 🛠️ Minhas Tecnologias
 <p align="center">
@@ -63,12 +63,12 @@
   </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sr-Julio23&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide=issues,contribs" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Julio23&layout=compact&theme=tokyonight&langs_count=8" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sr-Julio23&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide=issues,contribs" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Julio23&layout=compact&theme=tokyonight&langs_count=8" height="150em"/>
 </p>
 
 ---
@@ -107,4 +107,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sr-Julio23&color=blueviolet&style=flat-square&label=Visitors"/>
 </p>
-
