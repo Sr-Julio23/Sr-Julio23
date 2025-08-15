@@ -40,6 +40,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sr-Julio23&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Julio23&layout=compact&theme=tokyonight" height="180em"/>
 </p>
+<p align="center">
+  <!-- Troféus -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Sr-Julio23&theme=dracula&row=1&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 
 
 ## 💻 Tech Stack
