@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&color=FFFFFF&center=true&vCenter=true&width=500&lines=𝖘𝖗.𝖏𝖚𝖑𝖎𝖔" alt="Typing Animation"/>
 </h1>
 
-
 ## 🧑‍💻 About Me
 
 <table>
@@ -23,10 +22,9 @@
 - 🎯 I like perfection.
 
     </td>
-   <td>
-  <img src="https://github.com/Sr-Julio23/Sr-Julio23/blob/main/transparent_gitgif.gif?raw=true" width="400"/>
-</td>
-
+    <td>
+      <img src="https://github.com/Sr-Julio23/Sr-Julio23/blob/main/transparent_gitgif.gif?raw=true" width="400"/>
+    </td>
   </tr>
 </table>
 
@@ -36,39 +34,52 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,linux,arduino,vscode" />
 </p>
 
-
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sr-Julio23&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Julio23&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Sr-Julio23&show_icons=true&theme=tokyonight" height="180em"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Julio23&layout=compact&theme=tokyonight" height="180em"/>
+      </td>
+    </tr>
+  </table>
+
 <p align="center">
   <!-- Troféus -->
   <img src="https://github-profile-trophy.vercel.app/?username=Sr-Julio23&theme=dracula&row=1&no-bg=true&margin-w=15&margin-h=15" />
 </p>
+<h3 align="center">📈 Tech Skills Progress</h3>
 
-
-## 🛠️ Main Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,linux,arduino,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,linux,arduino,dotnet,vscode" />
 </p>
 
+<table align="center">
+  <tr>
+    <td>
+Python 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85%<br>
+C++ 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70%<br>
+JavaScript 🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜ 65%<br>
+HTML/CSS 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ 90%
+    </td>
+    <td>
+MySQL 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%<br>
+Linux 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ 75%<br>
+Arduino 🟫🟫🟫🟫🟫⬜⬜⬜⬜⬜ 50%<br>
+.NET 🟥🟥🟥🟥🟥⬜⬜⬜⬜⬜ 55%
+    </td>
+  </tr>
+</table>
 
 
+## 📌 Top Contributed 
 
-<div align="center">
-  
-## 📌 Top Contributed Repo
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sr-Julio23&repo=Sr-Julio23&theme=tokyonight)
-
-</div>
-
-
-## ☕ Support Me
-<p>
-  <a href="https://www.buymeacoffee.com/Sr-Julio23" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sr-Julio23&repo=Sr-Julio23&theme=tokyonight" />
 </p>
