@@ -7,10 +7,10 @@
        style="object-fit: cover;" />
 </p>
 
-<!-- Apresentação -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&color=FFFFFF&center=true&vCenter=true&width=500&lines=𝖘𝖗.𝖏𝖚𝖑𝖎𝖔" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&color=FFFFFF&center=true&vCenter=true&width=500&lines=</𝖘𝖗.𝖏𝖚𝖑𝖎𝖔>" alt="Typing Animation"/>
 </h1>
+
 
 ## 🧑‍💻 About Me
 
