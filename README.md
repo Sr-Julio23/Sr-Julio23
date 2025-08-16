@@ -1,6 +1,10 @@
 <!-- Banner Superior -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sr-Julio23/Sr-Julio23/refs/heads/main/meu%20banner%2001.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sr-Julio23/Sr-Julio23/refs/heads/main/meu%20banner%2001.png" 
+       alt="Banner" 
+       width="100%" 
+       height="550px" 
+       style="object-fit: cover;" />
 </p>
 
 <!-- Apresentação -->
